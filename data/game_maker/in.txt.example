@@ -1,0 +1,202 @@
+!connections
+
+## Example of a music question
+# For example, the first clue downloads 40 seconds (by default, since
+# rounds last for 40 seconds) of music from
+# https://www.youtube.com/watch?v=CDdvReNKKuk , starting 51 seconds in.
+# Upon reveal, the tile would say "Amazing Grace".
+
+- Songs using the pentatonic scale
+https://www.youtube.com/watch?v=CDdvReNKKuk 51
+Amazing Grace
+https://www.youtube.com/watch?v=v8frEt6w4G8 8
+Swing Low, Sweet Chariot
+https://www.youtube.com/watch?v=wPnhaGWBnys 11
+Auld Lang Syne
+https://www.youtube.com/watch?v=NpLtf_-XnRo 62
+Spring on the Moonlit River
+
+- Alliterations
+https://www.youtube.com/watch?v=GBp1Y-LoObs 31
+Guardians of the Galaxy
+https://www.youtube.com/watch?v=d9J91NDX_HI
+Final Fantasy (FF1 opening)
+https://www.youtube.com/watch?v=g1vw9ftAWSc
+Madoka Magica
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Rick-roll
+
+- Name collisions on Floor Pi
+tclin
+dzguo
+yangk
+schin19
+
+- Lounges in MIT
+50-2xx
+8-3xx
+4-1xx
+36-1xx
+
+- Anagrams of Deltarune characters
+Earl, NC
+serial
+issue
+risk
+
+## Example of a picture question
+# For example, the first clue downloads the image from
+# https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/USA_tar_bubble_la_brea_CA.jpg/284px-USA_tar_bubble_la_brea_CA.jpg
+# Upon reveal, the tile would say "tar".
+
+- Commands that you type into a terminal
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/USA_tar_bubble_la_brea_CA.jpg/284px-USA_tar_bubble_la_brea_CA.jpg
+tar
+https://media.kare11.com/assets/KARE/images/537657503/537657503_750x422.jpg
+dig
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg
+cat
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/OD_Compact_disc.svg/2000px-OD_Compact_disc.svg.png
+cd
+
+!sequences
+
+- Chord progression in Pachelbel's Canon in D
+1...5
+6...3
+4...1
+4...5
+
+- Ubuntu version suffixes
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg/1280px-Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg
+(Yakkety) Yak
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zapus_hudsonius.jpg/1200px-Zapus_hudsonius.jpg
+(Zesty) Zapus
+https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/a/aardvark_thumb.ngsversion.1474903830105.adapt.1900.1.JPG
+(Artful) Aardvark
+http://web.mit.edu/graphicidentity/images/examples/tim-the-beaver-do-1.png
+(Bionic) Beaver
+
+## The last clue for this puzzle was originally
+#
+# images/first-east.png
+# First East
+#
+# which provides an example of a picture clue where the image is retrieved
+# from the local filesystem. This requires you to have an image called
+# "first-east.png" in the images directory in the project root. Since you
+# probably don't have this image on your computer, I removed the image URL.
+#
+# Now, this just provides an example of how you can mix and match
+# different kinds of clues.
+
+- Floors on the east parallel
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brenneke_Slug-1.jpg/446px-Brenneke_Slug-1.jpg
+Slug(Fest)
+http://whisperingpines.fatcow.com/content/wp-content/uploads/2009/12/pettingzoo1.jpg
+(Third East) Travelling Animial Zoo
+https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-rh2s1r_7ed9f532.jpeg
+(Beauty and the) Beast
+First East
+
+- Last four days of creation
+Sun and moon
+Birds and fish
+Man and animals
+Rest
+
+- Brightest stars as seen from the Earth
+Alpha Centauri
+Canopus
+Sirius
+The Sun
+
+- Building numbers along MIT's north corrdidor
+(35, 37)
+(39, 38)
+(34, 36)
+(32)
+
+!walls
+
+## WALL 1
+
+- Swap the second and third letters to get another word
+silver
+tarp
+crooner
+stain
+
+- ___age
+bronze
+percent
+old
+ramp
+
+- End of lines of the poem "Roses are Red"
+red
+blue
+sweet
+you
+
+- Quantum ___
+leap
+foam
+dot
+teleportation
+
+## WALL 2
+
+- tri___
+angular
+force
+tone
+al
+
+- Moves that Charmander learns when levelling up
+ember
+slash
+scratch
+smokescreen
+
+- ___ata
+err
+pin
+cant
+chord
+
+- Prefixes of computer games recently played in the TVL
+hollow
+over
+super
+crypt
+
+!vowels
+
+# The vowels are removed and the spaces inserted randomly at the point
+# when you upload the game file to the app. Unfortunately, there isn't a
+# way to choose your own spacing beforehand.
+
+- Revolutionary innovations in technology
+Facebook
+Amazon Echo
+Google Plus
+Juicero
+
+- People related to Floor Pi
+Daniel Guo
+Aashish Welling
+Yannick Yao
+Dai Yang
+
+- Orders
+Sammy, go to sleep!
+The Illuminati
+General Gao's chicken
+Eleven
+
+- Floor Pi
+Ceiling e
+WHOOSH! Galactic Trendsetters NIAOOoo
+Only Connect
+Tea time
